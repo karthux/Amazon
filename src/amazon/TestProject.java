@@ -11,5 +11,8 @@ public class TestProject {
 		System.out.println("test3");
 
 	}
+	public void add() {
+		
+	}
 
 }
