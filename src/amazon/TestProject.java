@@ -7,6 +7,9 @@ public class TestProject {
 		System.out.println("test1");
 		System.out.println("test2");//commit2
 		System.out.println("test4");//commit3
+
+		System.out.println("test3");
+
 	}
 
 }
